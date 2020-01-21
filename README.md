@@ -1,4 +1,4 @@
 Current-page-link-style
 =======================
 
-Small code, apply css style for current page link using jQuery
+Small code, adds css class for current page link using jQuery in order to use specific css styles
